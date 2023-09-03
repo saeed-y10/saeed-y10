@@ -2,8 +2,7 @@
 <h3 align="center">Desktop Applications Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-y10&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-y10" /> </p>
-
-<p align="right> <img src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" /> </p>
+<p align="right"> <img alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" /> </p>
 
 - 👨‍💻 I’m working on **No thing**
 

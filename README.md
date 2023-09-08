@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m working on **No thing**
 
-- 🔭 I’m currently a student at [Programming Advices](programmingadvices.com)
+- 🔭 I’m currently a student at [Programming Advices](https://programmingadvices.com/)
 
 - 🌱 I’m currently learning **.Net Framework, Microsoft SQL Server, Adobe XD**
 
